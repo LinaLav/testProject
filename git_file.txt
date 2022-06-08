@@ -3,3 +3,6 @@ not empty anymore
 --edit from 07/06
 
 --push from 08/06 without saved with stash changes
+
+--push from 08/06 with changes
+
